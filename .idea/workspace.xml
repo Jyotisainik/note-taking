@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc10b9a4-8b1e-47d2-9387-66ebd441b4b4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jyot.py" beforeDir="false" afterPath="$PROJECT_DIR$/jyot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notetaking.py" beforeDir="false" afterPath="$PROJECT_DIR$/notetaking.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,23 +15,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jyot.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jyot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jyot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+            <state relative-caret-position="207">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#278#292#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notetaking.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="notetaking.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notetaking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="207">
+              <caret line="165" column="4" selection-start-line="165" selection-start-column="4" selection-end-line="165" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,8 +47,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/notetaking.py" />
         <option value="$PROJECT_DIR$/jyot.py" />
+        <option value="$PROJECT_DIR$/notetaking.py" />
       </list>
     </option>
   </component>
@@ -181,24 +185,27 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/notetaking.py</url>
-          <line>12</line>
+          <line>31</line>
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/notetaking.py">
+    <entry file="file://$PROJECT_DIR$/jyot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        <state relative-caret-position="207">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="e#278#292#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jyot.py">
+    <entry file="file://$PROJECT_DIR$/notetaking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        <state relative-caret-position="207">
+          <caret line="165" column="4" selection-start-line="165" selection-start-column="4" selection-end-line="165" selection-end-column="4" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
